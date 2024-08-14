@@ -1,10 +1,24 @@
-Hi there! 👋
+Welcome to My GitHub Profile! 👋
+🔭 I’m currently working on:
 
-I'm MOISE IYAA, a full-stack developer. I thrive on creating innovative solutions that make a difference.
+Smart Agriculture Solutions: Developing IoT-based systems to optimize local farming practices in Kigali.
+Eco-Friendly Projects: Building web applications to promote environmental sustainability in East Africa.
+👯 I’m looking to collaborate on:
 
-🔭 I’m currently working on a platform that connects local farmers to urban consumers, ensuring fresh produce delivery within Kigali.
-👯 I’m looking to collaborate on open-source projects that aim to empower communities through technology.
-🤝 I’m looking for help with implementing scalable microservices architecture.
-🌱 I’m currently learning GraphQL and its integration with React.
-💬 Ask me about developing responsive web applications or the tech scene in Rwanda.
-⚡ Fun fact: When I'm not coding, you can find me exploring Kigali's vibrant art scene or hiking the beautiful hills of Rwanda.
+Community-Focused IoT Projects: Collaborating on initiatives that leverage technology to address local challenges.
+Tech for Education: Partnering on projects that enhance learning experiences through innovative tech solutions.
+🤝 I’m looking for help with:
+
+Advanced IoT Development: Seeking expertise in integrating sensors and data analytics for practical applications.
+Web Development: Need assistance with advanced PHP frameworks and scalable website architecture.
+🌱 I’m currently learning:
+
+Machine Learning: Exploring ways to integrate AI into IoT systems for smarter solutions.
+Blockchain: Investigating potential applications of blockchain for secure, transparent systems in local projects.
+💬 Ask me about:
+
+Full-Stack Development: Insights and best practices for both front-end and back-end technologies.
+Local Tech Innovations: How technology is transforming Kigali and East Africa.
+⚡ Fun fact:
+
+I once developed a mobile app to help local artisans showcase and sell their crafts online, boosting their visibility and sales!
