@@ -1,18 +1,25 @@
-Welcome to My GitHub Profile! 👋
+# 💫 About Me:
+Welcome to My GitHub Profile! 👋<br><br>🔭 I’m currently working on: Smart Agriculture Solutions: Developing IoT-based systems to optimize local farming practices in Kigali.<br>Eco-Friendly Projects: Building web applications to promote environmental sustainability in East Africa.<br><br>👯 I’m looking to collaborate on: Community-Focused IoT Projects: Collaborating on initiatives that leverage technology to address local challenges.<br>Tech for Education: Partnering on projects that enhance learning experiences through innovative tech solutions.<br><br>🤝 I’m looking for help with: Advanced IoT Development: Seeking expertise in integrating sensors and data analytics for practical applications.<br>Web Development: Need assistance with advanced PHP frameworks and scalable website architecture.<br><br>🌱 I’m currently learning: Machine Learning: Exploring ways to integrate AI into IoT systems for smarter solutions.<br>Blockchain: Investigating potential applications of blockchain for secure, transparent systems in local projects.<br><br>💬 Ask me about: Full-Stack Development: Insights and best practices for both front-end and back-end technologies.<br>Local Tech Innovations: How technology is transforming Kigali and East Africa.<br><br>⚡ Fun fact: I once developed a mobile app to help local artisans showcase and sell their crafts online, boosting their visibility and sales!
 
-🔭 I’m currently working on: Smart Agriculture Solutions: Developing IoT-based systems to optimize local farming practices in Kigali.
-    Eco-Friendly Projects: Building web applications to promote environmental sustainability in East Africa.
 
-👯 I’m looking to collaborate on: Community-Focused IoT Projects: Collaborating on initiatives that leverage technology to address local challenges.
-    Tech for Education: Partnering on projects that enhance learning experiences through innovative tech solutions.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moise.iya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moiseiyaa/) 
 
-🤝 I’m looking for help with: Advanced IoT Development: Seeking expertise in integrating sensors and data analytics for practical applications.
-    Web Development: Need assistance with advanced PHP frameworks and scalable website architecture.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=moiseiyaa&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=moiseiyaa&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moiseiyaa&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-🌱 I’m currently learning: Machine Learning: Exploring ways to integrate AI into IoT systems for smarter solutions.
-    Blockchain: Investigating potential applications of blockchain for secure, transparent systems in local projects.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=moiseiyaa&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
-💬 Ask me about: Full-Stack Development: Insights and best practices for both front-end and back-end technologies.
-    Local Tech Innovations: How technology is transforming Kigali and East Africa.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-⚡ Fun fact: I once developed a mobile app to help local artisans showcase and sell their crafts online, boosting their visibility and sales!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=moiseiyaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=moiseiyaa&icon=7&color=8)](https://visitcount.itsvg.in)
